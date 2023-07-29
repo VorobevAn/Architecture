@@ -1,6 +1,6 @@
 package Classes;
 
-
+// Абстактный класс ля фабрики наград
 
 public abstract class ItemGenerator {
     public void openReward()
